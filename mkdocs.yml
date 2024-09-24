@@ -16,14 +16,6 @@ nav:
     - ESSAY/index.md
     - 随笔记:
 
-  - 网站:
-    # 访客打开网站第一个看到的是 docs/index.md
-    # 构建网站时，不用管报错 "The following pages exist in the docs directory, but are not included in the "nav" configuration: index.md"
-    # 如果访客之后想要重新看到这个界面，可以在 docs/WEBSITE/index.md 找到
-    - WEBSITE/index.md
-    - WEBSITE/build.md
-    - WEBSITE/help.md
-    - WEBSITE/test.md
 
 # [UI]
 # [top]
@@ -88,12 +80,12 @@ edit_uri: edit/main/docs/
 # [top-right corner]
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io
-repo_name: yang-xijie.github.io
+repo_url: https://github.com/ZJU-UPA/ZJU-UPA.github.io.git
+repo_name: ZJU-UPA.github.io.git
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: 杨希杰 CC-BY-4.0
+copyright: 1
 # [bottom-right corner]
 extra:
   # [添加社交网络图标和链接]
@@ -101,7 +93,7 @@ extra:
   # 搜索图标：https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
   # name 会在鼠标悬浮时提示
   social: # icons
-    - name: GitHub | Yang-Xijie
+    - name: GitHub | ZJU-UPA
       icon: fontawesome/brands/github
       link: https://zj-upa.github.io
 
