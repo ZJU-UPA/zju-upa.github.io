@@ -8,13 +8,12 @@ site_description: ZJUUPA课程网站
 # [Navigtion]
 nav:
   - 笔记:
-    - NOTE/index.md
-    - Markdown:
-      - Markdown入门: NOTE/Markdown/markdown.md
-
+      - NOTE/index.md
+      - Markdown:
+          - Markdown入门: NOTE/Markdown/markdown.md
   - 随笔:
-    - ESSAY/index.md
-    - 随笔记:
+      - ESSAY/index.md
+
 
 
 # [UI]
@@ -85,17 +84,15 @@ repo_name: ZJU-UPA.github.io.git
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: 1
+copyright: "© 2024 ZJUUPA"
+
 # [bottom-right corner]
 extra:
-  # [添加社交网络图标和链接]
-  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
-  # 搜索图标：https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
-  # name 会在鼠标悬浮时提示
-  social: # icons
-    - name: GitHub | ZJU-UPA
-      icon: fontawesome/brands/github
-      link: https://zj-upa.github.io
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ZJU-UPA
+      name: GitHub | ZJU-UPA
+
 
 # [Extensions]
 plugins:
@@ -151,7 +148,6 @@ markdown_extensions:
 extra_javascript:
   # [数学公式支持]
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
-  - mkdocs/javascripts/katex.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 extra_css:
