@@ -8,11 +8,25 @@ site_description: ZJUUPA课程网站
 # [Navigtion]
 nav:
   - 笔记:
-      - NOTE/index.md
-      - Markdown:
-          - Markdown入门: NOTE/Markdown/markdown.md
+    - NOTE/index.md
+    - 公共管理学:
+        - 笔记: NOTE/公共管理学/note.md
+    - 公共政策分析:
+        - 笔记: NOTE/公共政策分析/note.md
+    - 社会科学研究方法:
+        - 笔记: NOTE/社会科学研究方法/note.md
+    - 政治学:
+        - 笔记: NOTE/政治学/note.md
   - 随笔:
-      - ESSAY/index.md
+    - ESSAY/index.md
+  - 生活:
+    - LIFE/index.md
+  - 读书分享: 
+    - READ/index.md
+  - 技能:
+    - SKILL/index.md
+    - Markdown:
+      - Markdown入门: NOTE/Markdown/markdown.md
 
 
 
