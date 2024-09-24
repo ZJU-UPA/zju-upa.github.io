@@ -94,7 +94,7 @@ edit_uri: edit/main/docs/
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
 repo_url: https://github.com/ZJU-UPA/ZJU-UPA.github.io.git
-repo_name: ZJU-UPA.github.io.git
+repo_name: ZJU-UPA
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
