@@ -26,8 +26,8 @@ nav:
   - 技能:
     - SKILL/index.md
     - Markdown:
-      - Markdown入门: NOTE/Markdown/markdown.md
-
+      - Markdown入门: SKILL/Markdown/markdown_intro.md
+      - Markdown配置: SKILL/Markdown/markdown_install.md
 
 
 # [UI]
