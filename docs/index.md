@@ -8,6 +8,7 @@ title: WELCOME TO ZJUUPA's HOME!
 ## 最新动态
 
 - **[2024-09-24]**：[UPA班级博客上线！！！](https://zju-upa.github.io/)
+- **[2024-09-26]**：[更新了Markdwon教程]
 
 ## 班级简介
 
